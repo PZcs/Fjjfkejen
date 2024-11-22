@@ -1,9 +1,4 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="5tv.ar",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="13MaxTelevision.ar",13Max Televisión (1080p)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-id="13MaxTelevision.ar",13Max Televisión (720p)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar",24/7 Canal de Noticias
-#EXTVLCOPT:http-referrer=https://cn247.tv/
